@@ -1,4 +1,7 @@
 # amazonAPI
+
+This project is just a basic styled projecr watch tutorials for clearly understand how these api works.
+
 How api works? How to create api's. Nodejs amazonAPI project. Deep Dive into Back-end on how api works. This is a sample amazon api created with Node and Express.
 
 # Api tutorials
