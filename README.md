@@ -5,7 +5,13 @@ How api works? How to create api's. Nodejs amazonAPI project. Deep Dive into Bac
 
 Tutorials are not good for learning code in a better way. The better way is search om google fix problem's create more projects. 
 
-But for understanding the basic structure you can check some tutorials. Some of the tutorials which helps me are given below. 
+But for understanding the basic structure you can check some tutorials. Some of the tutorials which helps me are given below.
+
+tutorial by JavacriptMastery -  https://youtu.be/be9sHQ7xqo0
+
+tutorial by CodeStackr - https://youtu.be/GpYboktUnTY
+
+tutorial by FireShip - https://youtu.be/-MTSQjw5DrM
 
 # Run on localhost
 
